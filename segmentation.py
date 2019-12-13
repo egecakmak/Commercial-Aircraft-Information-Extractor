@@ -230,7 +230,6 @@ def extract_airline(extracted_airplane, bbox, mask):
     cropped_airplane = extracted_airplane[y1 + upper:y2 - lower, x1:x2]
     cropped_airplane = cv2.cvtColor(cropped_airplane, cv2.COLOR_RGB2GRAY)
 
-    cv2.imwrite('croppedairplane.png', cropped_airplane)
     output = pytesseract.image_to_string(cropped_airplane, config=TESSERACT_CONFIG_2)
     # Cleans the output and splits it into the words detected. Then creates a string and appends each of the words
     # iteratively and also at each iteration compares the levenshtein distance of the string with all the airline names.
