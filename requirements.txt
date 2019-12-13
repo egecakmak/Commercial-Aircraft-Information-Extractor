@@ -5,3 +5,4 @@ opencv-python-headless
 opencv-contrib-python
 fuzzywuzzy
 argparse
+tensorflow-gpu==1.14.0
