@@ -35,3 +35,5 @@ Requirements:
   <python/python3> extract_information.py --multiple_images --images_path images --verbose <br>
   
   For convenience, if you create a directory with the name "images" and put your input images in it then you can omit the --images_path argument.
+
+<b>THIS README WILL BE MADE FANCIER (HOPEFULLY) SOMETIME IN THE FUTURE. <b>
