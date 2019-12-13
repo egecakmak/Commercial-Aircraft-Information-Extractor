@@ -38,4 +38,7 @@ Requirements:
   
   For convenience, if you create a directory with the name "images" and put your input images in it then you can omit the --images_path argument.
 
+Here are some images I used.
+https://drive.google.com/file/d/1BiUFf0R590qmZDe-xb0GYNLlbdt1rtbH/view?usp=sharing
+
 <b>THIS README WILL BE MADE FANCIER (HOPEFULLY) SOMETIME IN THE FUTURE. <b>
