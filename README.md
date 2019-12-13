@@ -16,7 +16,7 @@ Requirements:
   https://drive.google.com/file/d/1OTVe0L6s5-TLLrBFpv7C6SldD77nLQ_w/view?usp=sharing <br>
   
   The coco model for Mask R-CNN will be downloaded automatically on the first run. <br>
-  THE DOWNLOAD IS ROUGHLY ~250 MB YOU HAVE BEEN WARNED.<br>
+  <b>THE DOWNLOAD IS ROUGHLY ~250 MB YOU HAVE BEEN WARNED.</b><br>
  
  How to Run: <br>
   Simply run extract_information.py choosing the correct arguments. <br>
