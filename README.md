@@ -19,6 +19,8 @@ Requirements:
   <b>THE DOWNLOAD IS ROUGHLY ~250 MB YOU HAVE BEEN WARNED.</b><br>
  
  How to Run: <br>
+  Clone the repo a folder. <br>
+  Make sure you meet the requirements. <br>
   Simply run extract_information.py choosing the correct arguments. <br>
  
  Arguments: <br>
