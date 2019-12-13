@@ -7,7 +7,7 @@ Requirements:
   NVIDIA Drivers <br>
   CUDA <br>
   cuDNN <br>
-  Python 3+
+  Python 3+ <br>
   Everything in requirements .txt <br>
   
   You can run <pip3/pip> install -r requirements.txt to install all the required packages.
