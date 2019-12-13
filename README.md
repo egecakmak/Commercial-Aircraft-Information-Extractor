@@ -1,6 +1,6 @@
 # Commercial-Aircraft-Information-Extractor
 This is my final project I worked on for EECS 4422-Computer Vision during Fall of 2019. <br>
-Please check project_report.pdf for detailed information.
+Please check EECS_4422_Computer_Vision_Project.pdf for detailed information.
 
 Requirements:
   NVIDIA GPU <br>
