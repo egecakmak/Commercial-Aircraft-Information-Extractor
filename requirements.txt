@@ -5,7 +5,7 @@ opencv-python-headless
 opencv-contrib-python
 fuzzywuzzy
 argparse
-tensorflow-gpu==1.14.0
+tensorflow-gpu==1.15.0
 scipy
 Pillow
 cython
